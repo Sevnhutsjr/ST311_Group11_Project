@@ -1,4 +1,4 @@
-# SST311 Group 11: Project Improving sentiment analysis through use of image and audio data
+# ST311 Group 11: Project Improving sentiment analysis through use of image and audio data
 
 ### Contributors
   - 51126 
