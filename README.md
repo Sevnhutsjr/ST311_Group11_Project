@@ -1,8 +1,4 @@
 # ST311 Group 11: Project Improving sentiment analysis through use of image and audio data
-
-## Important ❗
-Please open Notebook4_Combination file locally, as file contains upload function, which is incompatible with webview. 
-
 ### Contributors
   - 51126 
   - 38134
